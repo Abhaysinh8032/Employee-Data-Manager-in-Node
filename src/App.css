@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+/* h1{font-size: 100px;} */
+.nav { font-size: 20px;
+  background-color: black;}
+.nav a { color:white; text-decoration-color:none; margin:5%;}
+body {
+  background-color: lightblue;
+}
+table{ border-radius: 5px;
+ }
+ th{
+  margin: 5px;
+  padding:5px;
+ }
